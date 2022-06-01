@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+.button1{
+    min-height:500px;
+    background-color: bisque;
+
+}
+.a{
+    border: none;
+    width: 100px;
+    height: 50px;
+    color: rgb(5, 118, 51);
+    background-color: rgb(142, 228, 187);
+    font: size 100px;
+    border-radius: 10px;
+
+
+}
+.a:hover{
+    background-color: rgb(113, 172, 138);
+}
+.b{
+    border: none;
+    width: 100px;
+    height: 50px;
+    color: blue;
+    background-color: aqua;
+    font: size 100px;
+    border-radius: 10px;
+
+}
+.b:hover{
+    background-color: rgb(130, 206, 222);
+}
+.c{
+    border: none;
+    width: 100px;
+    height: 50px;
+    color: rgb(14, 28, 229);
+    background-color: rgb(229, 245, 55);
+    font: size 100px;
+    border-radius: 10px;
+
+}
+.c:hover{
+    background-color: rgb(236, 246, 131);
+}

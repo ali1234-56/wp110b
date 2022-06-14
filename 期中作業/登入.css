@@ -1,0 +1,33 @@
+body{
+
+    background-color: black;
+    display: flex;    
+    justify-content: center;
+    text-align: center;
+    
+}
+.ap input{
+
+    display: block;
+}
+.apple{
+
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    padding:100px;
+    box-shadow: 10px 10px 10px rgb(114, 202, 237);
+     
+}
+.apple input{   
+
+    margin: 30px auto;  
+
+}
+.ap2{
+
+    display: block;
+
+ }
+
+ 
+

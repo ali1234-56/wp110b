@@ -46,11 +46,13 @@ css全由個人設計
 
 ![tempsnip](https://user-images.githubusercontent.com/99935047/173520882-49a69ea2-d461-4b98-8653-3546a2bfb20a.png)
 
-最後在連結的js的檔案裡寫入jQuery程式就可以在動態網頁顯示了
+最後在連結的js的檔案裡寫入jQuery程式就可以在網頁顯示了
 
 ![tempsnip](https://user-images.githubusercontent.com/99935047/173521462-80ff887f-5f75-41ca-8eea-d09ff5bb7034.png)
 
 ![tempsnip](https://user-images.githubusercontent.com/99935047/173521854-155cbfb1-5741-4002-a8f1-870783c94973.png)
+
+**!由於github移除jQuery程式故無法用該網站出現!**
 
 
 

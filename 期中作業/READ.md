@@ -4,11 +4,14 @@
 
 查詢網站的api資料來自 https://corona.lmao.ninja/
 
+幻燈片製作參考camera slideshow 官方網站 https://www.pixedelic.com/plugins/camera/
+
+css全由個人設計
 
 
 ## 動機
 
-
+偶然在影片中看到別人能夠把其他api資料即時使用在自己的網站上，便好奇想使用，幻燈片則是各大網站的各種網站幻燈片製作都很好看，便參考了 camera slideshow 官方網站
 
 ## 操作方式
 

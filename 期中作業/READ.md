@@ -34,7 +34,7 @@ css全由個人設計
 
 登入頁面的製作改編自個人練習習題 https://ali1234-56.github.io/wp110b/homework/home3/homework3.html
 
-導入api資料的方法參考 https://www.youtube.com/watch?v=7Wh7zWPm-eQ
+導入api資料的方法參考 https://www.youtube.com/watch?v=FEdgrohfjGY
 
 幻燈片的製作
 
@@ -52,7 +52,7 @@ css全由個人設計
 
 ![tempsnip](https://user-images.githubusercontent.com/99935047/173521854-155cbfb1-5741-4002-a8f1-870783c94973.png)
 
-**!由於github移除jQuery程式故無法用該網站出現!**
+**!由於github移除jQuery程式故幻燈片無法在該網站出現QQ!**
 
 
 

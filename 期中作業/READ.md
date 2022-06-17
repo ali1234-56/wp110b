@@ -34,7 +34,12 @@ css全由個人設計
 
 登入頁面的製作改編自個人練習習題 https://ali1234-56.github.io/wp110b/homework/home3/homework3.html
 
-導入api資料的方法參考 https://www.youtube.com/watch?v=FEdgrohfjGY
+導入api資料的方法參考 https://www.youtube.com/watch?v=FEdgrohfjGYu3
+
+以 fetch( )的方式取得網站資料，如以閜下圖片所示
+
+![tempsnip](https://user-images.githubusercontent.com/99935047/174242606-c1e44e23-5387-4307-b814-7465d1e83c83.png)
+
 
 幻燈片的製作
 

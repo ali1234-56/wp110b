@@ -1,4 +1,4 @@
-# 本程式參考編輯 http://promooo.info/index.php 的 http://promooo.info/CovidProject/CovidSystem.html 專案 (80%)
+# 本程式參考編輯 http://promooo.info/index.php 的 http://promooo.info/CovidProject/CovidSystem.html 專案 
 
 ## 參考資料
 
